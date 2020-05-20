@@ -167,7 +167,7 @@
     "react-visibility-sensor": "^5.0.2",
     "rimraf": "^2.6.3",
     "satisfied": "^1.1.2",
-    "semantic-ui-css": "git+https://github.com/everardotrejo/Semantic-UI-CSS.git",
+    "semantic-ui-css": "^2.4.1",
     "simulant": "^0.2.2",
     "sinon": "^7.2.7",
     "sinon-chai": "^3.3.0",
